@@ -9,9 +9,9 @@ This guide aims to introduce you to the basics of navigating and operating withi
   - [Introduction to Git Bash](#introduction-to-git-bash)
   - [Installing Git Bash](#installing-git-bash)
   - [Basic Commands](#basic-commands):
-        - [Navigation](#navigation)
-        - [File and Directory Operations](#file-and-directory-operations)
-        - [Viewing and Editing Files](#viewing-and-editing-files)
+    - [Navigation](#navigation)
+    - [File and Directory Operations](#file-and-directory-operations)
+    - [Viewing and Editing Files](#viewing-and-editing-files)
   - [Using Git in Git Bash](#using-git-in-git-bash)
   - [Customizing Git Bash](#customizing-git-bash)
   - [Troubleshooting Common Issues](#troubleshooting-common-issues)
