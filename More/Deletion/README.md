@@ -71,4 +71,4 @@ rm -rf directory_to_delete
 
 Understanding and responsibly managing file and directory deletion are crucial for effective file system management in **Bash**. The commands and practices outlined in this guide will help ensure that you can remove unnecessary items safely and recover from mistakes more easily.
 
-Remember, with great power comes great responsibility, especially when it comes to deletion commands in **Bash**.
+Remember, **with great power comes great responsibility**, especially when it comes to deletion commands in **Bash**.
