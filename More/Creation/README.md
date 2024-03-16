@@ -1,6 +1,6 @@
 # Creation 📝
 
-Welcome to the "Creation" section of the Bash Callback repository. This guide is dedicated to demonstrating various **Bash** commands for creating directories (folders) and files. Understanding these basic operations is crucial for navigating and managing your file system effectively.
+Welcome to the "Creation" section of the **Bash Callback** repository. This guide is dedicated to demonstrating various **Bash** commands for creating directories (folders) and files. Understanding these basic operations is crucial for navigating and managing your file system effectively.
 
 ## Creating Directories
 
@@ -54,7 +54,7 @@ This command creates a file named `hello.txt` and writes "Hello, World!" into it
 
   - **Naming Directories and Files:** When naming your directories and files, avoid using spaces to prevent issues. Use underscores (`_`) or dashes (`-`) instead.
   - **Check Existence Before Creation:** To avoid accidentally overwriting existing files or directories, use conditional checks in your scripts to verify their existence before   attempting to create them.
-  -**Permissions:** Be mindful of permissions when creating directories and files, especially in shared environments. Use `chmod` and `chown` to adjust permissions and ownership as needed.
+  - **Permissions:** Be mindful of permissions when creating directories and files, especially in shared environments. Use `chmod` and `chown` to adjust permissions and ownership as needed.
 
 ## Conclusion
 
